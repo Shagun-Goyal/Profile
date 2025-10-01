@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shagun Goyal and I'm a Student of Programming, from private college</h2>
+<h2 align="left">Hi 👋! My name is Shagun Goyal and I'm a Student of Programming</h2>
 
 ###
 
